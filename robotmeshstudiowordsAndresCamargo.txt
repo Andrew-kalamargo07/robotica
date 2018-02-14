@@ -1,0 +1,82 @@
+Robot Mesh Studio Words
+
+Común:
+-Viga
+-plato
+-Pernos del Conector
+-Conector de esquina ancha
+-Inclinacion del punto muerto
+-Inclinacion eje
+-Engrane de Dientes
+-Rueda
+-Motor inteligente
+Pernos del conector:
+-Pernos del conector
+Conectores de esquina:
+- Conector de esquina de chasis grande
+- Pequeño conector de esquina del chasis
+Conector Corriente
+-Connector de Esquina de Compensacion 
+- Soporte de gusano
+- Conector de esquina del chasis izquierdo
+- Conector de esquina del chasis derecho
+Separaciones:
+-inclinacion del punto muerto
+-Mini Conector de separadores
+-Conector de separadores Con hoyo en el centro
+-Conector final de Separadores
+Engranajes:
+-Engrane de Dientes
+Ejes, collares y arandelas:
+-inclinacion del eje Plastico
+-inclinacion del eje
+- Placa de bloqueo del eje
+- Collar del eje de goma
+Ruedas:
+-Ruedas
+-Rueda multiple
+Vigas:
+-1x Vigas
+-2x vigas
+Platos:
+-Platón
+-Plato Armadura
+-Plato Hueso
+-Plato Hexagonal
+Estructura de Especialidad
+-viga de Soporte
+-Viga de Angulo derecho
+-Viga de Angulo
+-Viga de compensación 
+-VigaEscudete Viga
+-Viga de la esquina Derecha
+-Viga de la Esquina Izquierda
+-Viga de soporte Delta 
+-Viga Doble de 60 grados
+-Plato Trapezoide de compensación
+-Viga de grado trotado
+-Wye Viga de bloqueo
+-Viga canal de compensación  
+Diverso:
+-Base de azulejo
+-Cerebro
+-muro Base
+-Esquina Base 
+-Campo lleno
+-Cubo De Juego
+-Bola De Juego
+-Hexaball
+-Lata De Soda
+-suelo
+-Pared
+-Cilindro
+-Anillo
+-Tubo
+-Tubo Conector
+Dispositivos:
+-Motor Inteligente
+-Sensor de Distancia
+-Sensor de Color
+-Sensor de Giro
+-Toque LED
+-Interruptor de Parada
